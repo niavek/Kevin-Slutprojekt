@@ -1,0 +1,133 @@
+.rubrik {
+	display:inline-block;
+	margin-left:20%;
+	font-size:46px;
+	height:100px;
+	margin-top:-16px;
+	color:black;
+
+
+}
+
+#newstext {
+
+	width:500px;
+	height:100px;
+	margin-left:400px;
+	margin-top:30px;
+	border:1px solid black;
+}
+
+#kursnav ul li{
+	display:inline-block;
+	-moz-box-shadow:inset 0px 0px 16px -50px #e8daca;
+	-webkit-box-shadow:inset 0px 0px 16px -50px #e8daca;
+	box-shadow:inset 0px 0px 16px -50px #e8daca;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, blue), color-stop(1, purple) );
+	background:-moz-linear-gradient( center top, blue 5%, purple 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='blue', endColorstr='purple');
+	background-color:#fc9621;
+	-webkit-border-top-left-radius:42px;
+	-moz-border-radius-topleft:42px;
+	border-top-left-radius:42px;
+	-webkit-border-top-right-radius:42px;
+	-moz-border-radius-topright:42px;
+	border-top-right-radius:42px;
+	-webkit-border-bottom-right-radius:42px;
+	-moz-border-radius-bottomright:42px;
+	border-bottom-right-radius:42px;
+	-webkit-border-bottom-left-radius:42px;
+	-moz-border-radius-bottomleft:42px;
+	border-bottom-left-radius:42px;
+	text-indent:0px;
+	border:1px solid black;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Courier New;
+	font-size:28px;
+	font-weight:bold;
+	font-style:normal;
+	height:60px;
+	line-height:52px;
+	width:250px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:4px 2px 0px green;
+}
+#kursnav ul {
+	margin-left:100px;
+}
+
+#kurscontainer {
+
+	width:1000px;
+	height:2000px;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, blue), color-stop(1, purple) );
+	background:-moz-linear-gradient( center top, blue 5%, purple 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='blue', endColorstr='purple');
+	border:5px ridge black;
+	margin-left:150px;
+
+}
+
+#newscontainer {
+	width:600px;
+	height:800px;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, blue), color-stop(1, red) );
+	background:-moz-linear-gradient( center top, blue 5%, red 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='blue', endColorstr='red');
+	margin-left:350px;
+	margin-top:30px;
+	border:5px ridge black;
+
+}
+
+#welcomecontainer {
+	height:400px;
+	width:700px;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, purple), color-stop(1, green) );
+	background:-moz-linear-gradient( center top, purple 5%, green 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='purple', endColorstr='green');
+	border:2px ridge black;
+	margin-left:20%;
+	margin-top:5%;
+}
+
+#welcomecontainer p {
+	text-align:center;
+	font-size:40px;
+}
+
+#welcomecontainer img {
+	width:60%;
+	height:60%;
+	margin-left:130px;
+}
+
+
+
+
+nav {
+	width:1200px;
+	height:100px;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, blue), color-stop(1, green) );
+	background:-moz-linear-gradient( center top, blue 5%, green 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='blue', endColorstr='green');
+	border:1px ridge black;
+	border-radius:10px;
+	margin-left:5%;
+}
+
+nav ul {
+	margin-left:-200px;
+	text-decoration:none;
+
+}
+
+nav ul li:hover {
+
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, green), color-stop(1, blue) );
+	background:-moz-linear-gradient( center top, green 5%, blue 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='green', endColorstr='blue');
+
+}
